@@ -22,7 +22,6 @@ I began my coding journey on March 24, 2022 with CS50x an intro to computer scie
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br />
-<br />
 
 <img align="Left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Gavin-Barham&theme=vue-dark&show_icons=true" />
 <img align="Left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gavin-Barham&layout=donut" />
